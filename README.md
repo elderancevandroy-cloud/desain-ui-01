@@ -1,4 +1,4 @@
-# bsi_health_app
+# health_app
 
 A new Flutter project.
 
