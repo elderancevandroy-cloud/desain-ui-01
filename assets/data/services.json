@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "BSI Signature\nEvidence-Based", "icon": "microscope", "route": "/service/1", "description": "Paket layanan unggulan BSI berbasis bukti ilmiah yang mencakup pemeriksaan komprehensif.", "price": "Rp. 4.000K" },
+  { "id": 2, "name": "Blood &\nUrine Tests", "icon": "test_tube", "route": "/service/2", "description": "Pemeriksaan darah dan urin lengkap untuk mendeteksi berbagai kondisi kesehatan.", "price": "Rp. 1.500K" },
+  { "id": 3, "name": "IV Therapy", "icon": "iv_bag", "route": "/service/3", "description": "Terapi infus intravena untuk meningkatkan imunitas dan kesehatan tubuh secara menyeluruh.", "price": "Rp. 2.800K" },
+  { "id": 4, "name": "Book\nAppointment", "icon": "calendar", "route": "/book-appointment", "description": "Pesan janji temu dengan dokter atau terapis klinik BSI.", "price": "" },
+  { "id": 5, "name": "Chat Us", "icon": "chat", "route": "/chat", "description": "Hubungi staf klinik BSI untuk pertanyaan seputar layanan kesehatan.", "price": "" },
+  { "id": 6, "name": "Blood &\nUrine Tests", "icon": "test_tube2", "route": "/service/2", "description": "Pemeriksaan darah dan urin lengkap untuk mendeteksi berbagai kondisi kesehatan.", "price": "Rp. 1.500K" },
+  { "id": 7, "name": "Educational\nTips", "icon": "book", "route": "/service/7", "description": "Edukasi kesehatan dan tips hidup sehat dari para ahli BSI Integrative Natural Health.", "price": "Gratis" },
+  { "id": 8, "name": "Other", "icon": "grid", "route": "/service/8", "description": "Layanan lainnya yang tersedia di klinik BSI Integrative Natural Health.", "price": "" }
+]

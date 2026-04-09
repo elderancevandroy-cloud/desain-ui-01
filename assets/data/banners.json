@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Deep Dive",
+    "subtitle": "Parasites & Disease Testing and Remedies Service",
+    "cta": "Get Tested Today!",
+    "original_price": "Rp. 7.000K",
+    "discount_price": "Rp. 5.500K",
+    "note": "by popular demand, this offer is extended through February 2025",
+    "image": "assets/images/banner_1.jpg",
+    "color": "#0077B6"
+  },
+  {
+    "id": 2,
+    "title": "IV Therapy Special",
+    "subtitle": "Boost Your Immunity with Our Premium IV Drip",
+    "cta": "Book Now!",
+    "original_price": "Rp. 3.500K",
+    "discount_price": "Rp. 2.800K",
+    "note": "Limited slots available every week",
+    "image": "assets/images/banner_2.jpg",
+    "color": "#005F8E"
+  },
+  {
+    "id": 3,
+    "title": "BSI Signature Package",
+    "subtitle": "Evidence-Based Comprehensive Health Assessment",
+    "cta": "Learn More",
+    "original_price": "Rp. 5.000K",
+    "discount_price": "Rp. 4.000K",
+    "note": "Includes full blood panel and consultation",
+    "image": "assets/images/banner_3.jpg",
+    "color": "#003F6B"
+  }
+]
